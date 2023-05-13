@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 # Skills 
 
 ## Languages
-<img src="https://img.shields.io/badge/Java-EA4335?style=flat-square&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=Solidity&logoColor=white"/>
