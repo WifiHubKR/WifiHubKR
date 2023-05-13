@@ -1,4 +1,5 @@
-### Hi there 👋
+Hi there 👋 I'm <b>security professonal aspirant</b> using Python and Java. 
+Now I study Blockchain to understand new Security skills. 
 
 <!--
 **WifiHubKR/WifiHubKR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +17,8 @@ Here are some ideas to get you started:
 -->
 
 <img src="https://img.shields.io/badge/kimjh456789@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+
+# Skills 
+
+## Languages
+<img src="https://img.shields.io/badge/Java-EA4335?style=flat-square&logo=java&logoColor=white"/>
