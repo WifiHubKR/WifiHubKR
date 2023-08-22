@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=WifiHub's%20page&fontSize=90)
 
-Hi there 👋 I'm <b>security professonal aspirant</b> using Python and Java. 
+Hi there 👋 I'm <b>security professonal aspirant</b> using Python and Java.    
 Now I study Blockchain to understand new Security skills. 
 
 <!--
@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 [<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>](https://www.notion.so/533a7bdbc2d54887a4fe2bee5fdcd4ac?pvs=4)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WifiHubKR)](https://github.com/anuraghazra/github-readme-stats)
+
 
 # Skills 
 
