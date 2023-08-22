@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 <img src="https://img.shields.io/badge/kimjh456789@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> <img src="https://img.shields.io/badge/rkawnsgud22@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>(https://www.notion.so/533a7bdbc2d54887a4fe2bee5fdcd4ac?pvs=4)
+[<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>](https://www.notion.so/533a7bdbc2d54887a4fe2bee5fdcd4ac?pvs=4)
 
 # Skills 
 
