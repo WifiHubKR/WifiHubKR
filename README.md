@@ -2,7 +2,7 @@
 
 Hi there 👋 I'm <b>security professonal aspirant</b> using Python and Java. <br>   
 Now I study Blockchain to understand new Security skills. <br>
-If you want to know about me, use my Notion ^^ 
+If you want to know about me, use my Notion or other social links!
 
 <!--
 **WifiHubKR/WifiHubKR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
