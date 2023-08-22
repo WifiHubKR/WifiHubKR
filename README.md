@@ -1,7 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=WifiHub's%20page&fontSize=90)
 
-Hi there 👋 I'm <b>security professonal aspirant</b> using Python and Java.    
-Now I study Blockchain to understand new Security skills. 
+Hi there 👋 I'm <b>security professonal aspirant</b> using Python and Java. <br>   
+Now I study Blockchain to understand new Security skills. <br>
+If you want to know about me, use my Notion ^^ 
 
 <!--
 **WifiHubKR/WifiHubKR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
