@@ -36,4 +36,4 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white"> <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white"> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"> <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipseide&logoColor=white"> <img src="https://img.shields.io/badge/Google Collab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black"> <img src="https://img.shields.io/badge/Remix-3C3C3D?style=flat-square&logo=ethereum&logoColor=white">
 
 ## OS 
-<img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windowsxp&logoColor=white">
+<img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windowsxp&logoColor=white"> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"> <img src="https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=centos&logoColor=white">
